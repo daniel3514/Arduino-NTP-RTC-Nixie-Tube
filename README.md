@@ -1,5 +1,5 @@
-# Arduino-RTC-Nixie-Tube
-Arduino Nixie Real Time Clock
+# Arduino-NTP-RTC-Nixie-Tube
+Arduino Nixie Network Time Protocol and Real Time Clock
 
 # Autor
 - Copyright (C) 2015
